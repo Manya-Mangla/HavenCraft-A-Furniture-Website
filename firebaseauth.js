@@ -5,12 +5,7 @@ import { getFirestore, setDoc, doc } from "https://www.gstatic.com/firebasejs/10
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBFnfHsiu1fFlrVUCymv-5IOb5IqCzQORI",
-  authDomain: "login-form-fd686.firebaseapp.com",
-  projectId: "login-form-fd686",
-  storageBucket: "login-form-fd686.appspot.com",
-  messagingSenderId: "914789878761",
-  appId: "1:914789878761:web:2b300bd4d57ea01c7cd978"
+  // firebase configuration for you own project
 };
 
 // Initialize Firebase
